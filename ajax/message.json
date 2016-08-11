@@ -1,0 +1,41 @@
+﻿{
+	"about_info":[
+	"2014年09月保送中国科学院大学就读硕士研究生，专业：计算机科学与技术",
+		"2014年毕业于沈阳师范大学科信软件学院，专业：计算机科学与技术",
+		"喜欢研究web前端技术，喜欢设计精美观的网页",
+		"喜欢编写优雅漂亮的高质量代码。"
+	],
+	"skill_info":"学习需要持之以恒，一直希望自己在知识深度与广度都予以重视。前端开发最基本&最根本就是html/css 、原生javascript的理解。另外还在不断学习其他的知识，如jQuery，angular，nodeJs，php等等。",
+	"html":[
+		"熟悉Web标准",
+		"熟练运用html标签",
+		"熟悉xml及xhtml标记语言",
+		"了解html5如canvas,SVG,localstorage新特性"
+	],
+	"css":[
+		"熟练运用css及了解css3新属性",
+		"注重浏览器兼容性，了解常见的css hack",
+		"熟悉bootstrap框架以及使用",
+		"了解css预编译器Less及Sass"
+	],
+	"javaScript":[
+		"熟悉jQuery库",
+		"熟悉ajax的运作原理及json数据结构",
+		"熟悉JavaScript DOM 操作",
+		"不断地学习原生的JavaScript，深入js闭包、js继承等特性"
+	],
+	"others":[
+		"了解php,node.js 等后台语言",
+		"了解HTTP协议 的相关工作原理",
+		"对Linux的常用基本命令行有一定的了解",
+		"了解git的版本管理以及github的基本操作"
+	],
+	"exp_info":"大学&研究生，在学习之余开始了web前端自学生涯。",
+	"contact_info":[
+		"学习是一个享受充实自己的过程,喜欢在前端的工作中寻找乐趣",
+		"前端给用户呈现了眼前一亮的感觉，使人赏心悦目,增添生活的美好",
+		"努力踏实地前进吧",
+		"爆发吧，小宇宙！",
+		"email：lianmengjia0916@163.com"
+	]
+}
